@@ -40,7 +40,7 @@ Edit `config.js` to put up your details
 
 ```javascript
 module.exports = {
-  siteTitle: 'Gatsby Starter fractal', // <title>
+  siteTitle: 'Mystic Tear', // <title>
   ...
   heading: 'Anubhav',
   subHeading: 'Web Developer',
@@ -79,7 +79,7 @@ Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefi
 - [gatsby-starter-overflow](https://github.com/anubhavsrivastava/gatsby-starter-overflow)
 - [gatsby-starter-multiverse](https://github.com/anubhavsrivastava/gatsby-starter-multiverse)
 - [gatsby-starter-identity](https://github.com/anubhavsrivastava/gatsby-starter-identity)
-- [gatsby-starter-highlights](https://github.com/anubhavsrivastava/gatsby-starter-highlights) 
+- [gatsby-starter-highlights](https://github.com/anubhavsrivastava/gatsby-starter-highlights)
 - [gatsby-starter-eventually](https://github.com/anubhavsrivastava/gatsby-starter-eventually)
 - [gatsby-starter-directive](https://github.com/anubhavsrivastava/gatsby-starter-directive)
 - [gatsby-starter-creative](https://github.com/anubhavsrivastava/gatsby-starter-creative)
