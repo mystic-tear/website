@@ -15,6 +15,7 @@ export default function Footer() {
           );
         })}
       </ul>
+      {/* don't delete the copyright code below */}
       <p className="copyright">
         &copy; Fractals. Credits: <a href="http://html5up.net">HTML5 UP</a>
       </p>

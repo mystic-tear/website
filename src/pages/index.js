@@ -22,10 +22,10 @@ const IndexPage = () => (
         <ul className="actions">
           <li>
             <a
-              href="https://github.com/anubhavsrivastava/gatsby-starter-fractal/archive/master.zip"
+              href="https://play.google.com/store/apps/details?id=com.MysticTear.mystictearapp"
               className="button primary icon fa-download"
             >
-              Download Starter
+              Download in Google Play Store
             </a>
           </li>
           <li>
@@ -47,28 +47,18 @@ const IndexPage = () => (
     <section id="one" className="wrapper style2 special">
       <header className="major">
         <h2>
-          Sed ipsum magna lorem tempus amet
+          The Unicorn Overlord opened a rift into our universe
           <br />
-          vehicula et gravida elementum
+          and let loose all kinds of creatures into our world.
+          <br />
+          <br />
+          Collect the invading creatures and work with them
+          <br />
+          to defeat the Unicorn and his minions,
+          <br />
+          send them back to their universe and close the rift!
         </h2>
       </header>
-      <ul className="icons major">
-        <li>
-          <span className="icon fa-camera-retro">
-            <span className="label">Shoot</span>
-          </span>
-        </li>
-        <li>
-          <span className="icon fa-refresh">
-            <span className="label">Process</span>
-          </span>
-        </li>
-        <li>
-          <span className="icon fa-cloud">
-            <span className="label">Upload</span>
-          </span>
-        </li>
-      </ul>
     </section>
 
     <section id="two" className="wrapper">
