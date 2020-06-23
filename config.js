@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Fractal', // <title>
+  siteTitle: 'Mystic Tear', // <title>
   manifestName: 'Fractal',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-fractal/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Mystic Tear',
-  subHeading: 'Seal up the tear in the sky!  ',
+  subHeading: 'Seal up the tear in the sky!',
   // social
   socialLinks: [
     {

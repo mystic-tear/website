@@ -64,17 +64,15 @@ const IndexPage = () => (
     <section id="two" className="wrapper">
       <div className="inner alt">
         <section className="spotlight">
+          <h2>Meet the Creators of Mystic Tear</h2>
+        </section>
+        <section className="spotlight">
           <div className="image">
             <img src={pic1} alt="" />
           </div>
           <div className="content">
-            <h3>Magna sed ultrices</h3>
-            <p>
-              Morbi mattis ornare ornare. Duis quam turpis, gravida at leo
-              elementum elit fusce accumsan dui libero, quis vehicula lectus
-              ultricies eu. In convallis amet leo non sapien iaculis efficitur
-              consequat lorem ipsum.
-            </p>
+            <h3>Roger Voss</h3>
+            <p>AR and Battlemaster extraordinaire!</p>
           </div>
         </section>
         <section className="spotlight">
@@ -82,13 +80,8 @@ const IndexPage = () => (
             <img src={pic2} alt="" />
           </div>
           <div className="content">
-            <h3>Ultrices nullam aliquam</h3>
-            <p>
-              Morbi mattis ornare ornare. Duis quam turpis, gravida at leo
-              elementum elit fusce accumsan dui libero, quis vehicula lectus
-              ultricies eu. In convallis amet leo non sapien iaculis efficitur
-              consequat lorem ipsum.
-            </p>
+            <h3>Kohki Shiga</h3>
+            <p>AR and Firebase Guru!</p>
           </div>
         </section>
         <section className="spotlight">
@@ -96,13 +89,17 @@ const IndexPage = () => (
             <img src={pic3} alt="" />
           </div>
           <div className="content">
-            <h3>Aliquam sed magna</h3>
-            <p>
-              Morbi mattis ornare ornare. Duis quam turpis, gravida at leo
-              elementum elit fusce accumsan dui libero, quis vehicula lectus
-              ultricies eu. In convallis amet leo non sapien iaculis efficitur
-              consequat lorem ipsum.
-            </p>
+            <h3>Julia Kyung</h3>
+            <p>UI Visionary and Illustrator!</p>
+          </div>
+        </section>
+        <section className="spotlight">
+          <div className="image">
+            <img src={pic4} alt="" />
+          </div>
+          <div className="content">
+            <h3>Halee Pagel</h3>
+            <p>Tech Lead and UI Builder!</p>
           </div>
         </section>
         <section className="special">
