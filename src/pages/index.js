@@ -75,15 +75,12 @@ const IndexPage = () => (
             <p>
               AR and Battlemaster extraordinaire!
               <br />
+              <br />
               Get in touch:
               <br />
-              <ul>
-                <li>
-                  <a href="https://github.com/rogerrogerv" target="_blank">
-                    GitHub
-                  </a>
-                </li>
-              </ul>
+              <a href="https://github.com/rogerrogerv" target="_blank">
+                GitHub
+              </a>
             </p>
           </div>
         </section>
@@ -96,20 +93,16 @@ const IndexPage = () => (
             <p>
               AR and Firebase Guru!
               <br />
+              <br />
               Get in touch:
               <br />
-              <ul>
-                <li>
-                  <a href="https://github.com/Saggitarie" target="_blank">
-                    GitHub
-                  </a>
-                </li>
-                <li>
-                  <a href="https://twitter.com/KohkiShiga" target="_blank">
-                    Twitter
-                  </a>
-                </li>
-              </ul>
+              <a href="https://github.com/Saggitarie" target="_blank">
+                GitHub
+              </a>
+              <br />
+              <a href="https://twitter.com/KohkiShiga" target="_blank">
+                Twitter
+              </a>
             </p>
           </div>
         </section>
@@ -122,20 +115,16 @@ const IndexPage = () => (
             <p>
               UI Visionary and Illustrator!
               <br />
+              <br />
               Get in touch:
               <br />
-              <ul>
-                <li>
-                  <a href="https://github.com/JuliaKyung" target="_blank">
-                    GitHub
-                  </a>
-                </li>
-                <li>
-                  <a href="https://instagram.com/missmaeko" target="_blank">
-                    Instagram
-                  </a>
-                </li>
-              </ul>
+              <a href="https://github.com/JuliaKyung" target="_blank">
+                GitHub
+              </a>
+              <br />
+              <a href="https://instagram.com/missmaeko" target="_blank">
+                Instagram
+              </a>
             </p>
           </div>
         </section>
@@ -148,25 +137,20 @@ const IndexPage = () => (
             <p>
               Tech Lead and UI Builder!
               <br />
+              <br />
               Get in touch:
               <br />
-              <ul>
-                <li>
-                  <a href="https://github.com/haleepagel" target="_blank">
-                    GitHub
-                  </a>
-                </li>
-                <li>
-                  <a href="https://instagram.com/haleepagel" target="_blank">
-                    Instagram
-                  </a>
-                </li>
-                <li>
-                  <a href="https://twitter.com/haleepagel" target="_blank">
-                    Twitter
-                  </a>
-                </li>
-              </ul>
+              <a href="https://github.com/haleepagel" target="_blank">
+                GitHub
+              </a>
+              <br />
+              <a href="https://instagram.com/haleepagel" target="_blank">
+                Instagram
+              </a>
+              <br />
+              <a href="https://twitter.com/haleepagel" target="_blank">
+                Twitter
+              </a>
             </p>
           </div>
         </section>
