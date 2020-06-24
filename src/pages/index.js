@@ -25,6 +25,7 @@ const IndexPage = () => (
             <a
               href="https://play.google.com/store/apps/details?id=com.MysticTear.mystictearapp"
               className="button primary icon fa-download"
+              target="_blank"
             >
               Download in Google Play Store
             </a>
@@ -48,16 +49,14 @@ const IndexPage = () => (
     <section id="one" className="wrapper style2 special">
       <header className="major">
         <h2>
-          The Unicorn Overlord opened a rift into our universe
+          The Unicorn Overlord opened a rift into our universe and let loose all
+          kinds of creatures into our world.
           <br />
-          and let loose all kinds of creatures into our world.
+          ✨
           <br />
-          <br />
-          Collect the invading creatures and work with them
-          <br />
-          to defeat the Unicorn and his minions,
-          <br />
-          send them back to their universe and close the rift!
+          Collect the invading creatures and work with them to defeat the
+          Unicorn and his minions, send them back to their universe and close
+          the rift!
         </h2>
       </header>
     </section>
@@ -73,7 +72,19 @@ const IndexPage = () => (
           </div>
           <div className="content">
             <h3>Roger Voss</h3>
-            <p>AR and Battlemaster extraordinaire!</p>
+            <p>
+              AR and Battlemaster extraordinaire!
+              <br />
+              Get in touch:
+              <br />
+              <ul>
+                <li>
+                  <a href="https://github.com/rogerrogerv" target="_blank">
+                    GitHub
+                  </a>
+                </li>
+              </ul>
+            </p>
           </div>
         </section>
         <section className="spotlight">
@@ -82,7 +93,24 @@ const IndexPage = () => (
           </div>
           <div className="content">
             <h3>Kohki Shiga</h3>
-            <p>AR and Firebase Guru!</p>
+            <p>
+              AR and Firebase Guru!
+              <br />
+              Get in touch:
+              <br />
+              <ul>
+                <li>
+                  <a href="https://github.com/Saggitarie" target="_blank">
+                    GitHub
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/KohkiShiga" target="_blank">
+                    Twitter
+                  </a>
+                </li>
+              </ul>
+            </p>
           </div>
         </section>
         <section className="spotlight">
@@ -91,7 +119,24 @@ const IndexPage = () => (
           </div>
           <div className="content">
             <h3>Julia Kyung</h3>
-            <p>UI Visionary and Illustrator!</p>
+            <p>
+              UI Visionary and Illustrator!
+              <br />
+              Get in touch:
+              <br />
+              <ul>
+                <li>
+                  <a href="https://github.com/JuliaKyung" target="_blank">
+                    GitHub
+                  </a>
+                </li>
+                <li>
+                  <a href="https://instagram.com/missmaeko" target="_blank">
+                    Instagram
+                  </a>
+                </li>
+              </ul>
+            </p>
           </div>
         </section>
         <section className="spotlight">
@@ -100,10 +145,32 @@ const IndexPage = () => (
           </div>
           <div className="content">
             <h3>Halee Pagel</h3>
-            <p>Tech Lead and UI Builder!</p>
+            <p>
+              Tech Lead and UI Builder!
+              <br />
+              Get in touch:
+              <br />
+              <ul>
+                <li>
+                  <a href="https://github.com/haleepagel" target="_blank">
+                    GitHub
+                  </a>
+                </li>
+                <li>
+                  <a href="https://instagram.com/haleepagel" target="_blank">
+                    Instagram
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/haleepagel" target="_blank">
+                    Twitter
+                  </a>
+                </li>
+              </ul>
+            </p>
           </div>
         </section>
-        <section className="special">
+        {/* <section className="special">
           <ul className="icons labeled">
             <li>
               <span className="icon fa-camera-retro">
@@ -131,11 +198,11 @@ const IndexPage = () => (
               </span>
             </li>
           </ul>
-        </section>
+        </section> */}
       </div>
     </section>
 
-    <section id="three" className="wrapper style2 special">
+    {/* <section id="three" className="wrapper style2 special">
       <header className="major">
         <h2>Elements Page</h2>
         <p>This starter is included with Elements demo for the starter</p>
@@ -147,7 +214,7 @@ const IndexPage = () => (
           </Link>
         </li>
       </ul>
-    </section>
+    </section> */}
 
     <Footer />
   </Layout>
